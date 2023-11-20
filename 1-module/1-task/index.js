@@ -8,4 +8,6 @@ function factorial(n) {
     m = m * i;
     return m;
 
+
+  // ваш код...
 }

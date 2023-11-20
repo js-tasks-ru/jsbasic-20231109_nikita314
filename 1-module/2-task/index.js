@@ -15,6 +15,7 @@ function isValid(name) {
   } else {
     return false;
   }
+  // ваш код...
 }
 
 function sayHello() {
